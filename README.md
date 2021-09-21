@@ -5,11 +5,10 @@
 <ol>
 <li>Instalar Node.js.</li>
 <li>Escolher uma IDE de JavaScript para programar.</li>
-<li><ul>Instalar o Cypress com Cucumber executando o seguinte comando na raíz da pasta do seu projeto: 
+<ul><li>Instalar o Cypress com Cucumber executando o seguinte comando na raíz da pasta do seu projeto:</li>
 <li>npm install --save-dev cucumber</li>
 <li>npm install --save-dev cypress-cucumber-preprocessor</li>
 </ul>
-</li>
 </ol>
 <b>Para iniciar os testes, execute um dos seguintes comandos no terminal do VS Code:</b>
 <ul>
