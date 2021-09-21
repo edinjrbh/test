@@ -1,5 +1,4 @@
-# cypress-cucumber-structure
-<h2>Estrutra de projeto utilizando Cypress com Cucumber</h2>
+ #<h2>Estrutra de projeto utilizando Cypress com Cucumber</h2>
 
 <b>Para configurar o Ambiente:</b>
 <ol>
